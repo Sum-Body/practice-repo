@@ -1,27 +1,27 @@
-## First Name Last Name
+## Sean Burton
 
-### Term Year 
+### FA 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre-calculus
 
-- Course 2
+- Intro to computer programming using python
 
-- Course 3
+- Intro to data analytics
 
-- Course 4
+- introduction to cloud infrastructure
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Mountain Biking
 
-- Thing 2
+- Wake boarding
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- information technology
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
