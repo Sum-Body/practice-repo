@@ -20,8 +20,12 @@ In this exercise you are asked to modify the `flpoly_student.md` file you worked
 a. Make sure your GitHub repo (`practice-repo/`) shows the results of your updated file (remember to use the commands `git add .` , `git commit -m "YOUR MESSAGE"`, and `git push`) 
 
 b. Include a link to your GitHub repo in this document.
-
+##
+https://github.com/Sum-Body/practice-repo
+##
 c. Take a screenshot of the GitHub repo, add the screenshot file to the repo, and include it in this document (review how to insert a picture using markdown)
+! [screenshot] (ScreenshotRepo.jpg)
+screenshot image
 
 
 # Problem 2 (30 points)
