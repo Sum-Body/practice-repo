@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Science - HW 2"
-author: "First Name Last name - `flastname@floridapoly.edu`"
+author: "Sean Burton - `sburton2103@floridapoly.edu`"
 output: html_notebook
 ---
 
@@ -40,11 +40,29 @@ _Edit this `.Rmd` file to include the solutions here._
 
 In this problem you will practice some basic R operations. Include solutions to each items by inserting a new R chunk of code (make sure you run the chunk so that the output is displayed)
 
+
 (a) Create a variable called `my_name` that contains your preferred name.
+```{r}
+my_name <- "SeanBurton"
+
+```
+
+
 
 (b) Create a variable called `name_length` that holds how many letters are in `my_name`.
+```{r}
+name_length <- nchar(my_name)
+```
+
+
 
 (c) Show which value is bigger: $e^\pi$ or $\pi^e$. 
+```{r}
+e <- (2.718182)
+pivalue1 <- e ^ pi
+pivalue2 <- pi ^ e
+pivalue1 > pivalue2
+```
 
 (d) Define a function called `add_three` that takes a single argument and returns a value with 3 units added to the original input.
 
