@@ -65,10 +65,23 @@ pivalue1 > pivalue2
 ```
 
 (d) Define a function called `add_three` that takes a single argument and returns a value with 3 units added to the original input.
+```{r}
+addvalue <- (1)
+addThree <- (addvalue + 3)
+```
+
 
 (e) Use the colon operator `:` to create a vector `v` of numbers from 10 to 49. Find the length of this vector using the `length()` function.
+```{r}
+v <- seq.int(10, 49)
+length(v)
+```
 
 (f) Use the `seq()` function to produce a range of number from -5 to 10 in 0.5 increments.
+```{r}
+seq.int(-5, 10, 0.5)
+
+```
 
 
 
