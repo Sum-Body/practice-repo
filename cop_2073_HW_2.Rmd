@@ -32,7 +32,17 @@ screenshot image
 
 For this problem, you are asked to create a list of **3 concepts** you have learned about so far this semester. Include the name of the course as a sub-heading (that is, using `##`), and the concepts as an unordered list. Include a link to information about at least one of the concept you listed (for example a link to the Wikipedia page about that concept/topics).
 
+
+
 _Edit this `.Rmd` file to include the solutions here._
+
+```{r}
+##intro programming##
+concepts <- c("list",  "vector", "nestedList")
+##https://en.wikipedia.org/wiki/Nesting_(computing)
+
+```
+
 
 
 
